@@ -1,0 +1,22 @@
+﻿
+Livrer une conception (UML) et un développement méttant en évidence :
+
+1) UML ok 
+2) Classe ok 
+3) Objet ok 
+4) Déclaration ok 
+5) Affectation ok
+6) Instanciation ok 
+7) Héritage ok
+8) Encapsulation ok 
+9) Surcharge ok
+10) Redéfinition OK
+11) Collection (ArrayList) ok
+12) toString() ok
+13) Interface ok
+14) Constructeur ok
+15) Getter / Setter ok
+16) Boucle ok
+17) Condition ok
+18) static ok
+
