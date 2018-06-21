@@ -20,4 +20,4 @@ Livrer une conception (UML) et un développement méttant en évidence :
 17) Condition ok
 18) static ok
 
-git push
+
